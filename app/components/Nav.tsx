@@ -12,14 +12,16 @@ const navLinks = [
 export default function Nav() {
   return (
     <nav>
-      <div className="nav-logo">AA</div>
-      <div className="nav-links">
-        {navLinks.map((link) => (
-          <a href={link.href} key={link.href}>
-            {link.label}
-          </a>
-        ))}
-        <ThemeToggle />
+      <div className="nav-shell">
+        <div className="nav-logo">AA</div>
+        <div className="nav-links">
+          {navLinks.map((link) => (
+            <a href={link.href} key={link.href}>
+              {link.label}
+            </a>
+          ))}
+          <ThemeToggle />
+        </div>
       </div>
     </nav>
   );

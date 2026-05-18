@@ -7,7 +7,7 @@ const experiences = [
     badge: "Current",
     active: true,
     company: "CashXChain · Feldkirchen-Westerham, Bavaria, Germany",
-    date: "March 2026 - Present (3 months)",
+    date: "March 2026 - Present",
     bullets: [
       "Supporting development of CashXChain Guard - a KYB compliance platform for fintechs",
       "AML/KYB regulatory research; contributing to compliance frameworks for EU-Africa & EU-Asia corridors",

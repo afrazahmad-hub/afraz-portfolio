@@ -27,7 +27,7 @@ const projects = [
     label: "AML · Thesis Research",
     title: "MSc Thesis: Crypto AML Regulation Analysis",
     desc: "MSc thesis project evaluating the effectiveness of French virtual/crypto regulations (MiCA, AMLDs, FATF) in combating money laundering, with transaction pattern analysis.",
-    tags: ["Python", "Power BI", "Econometrics"],
+    tags: ["Google Forms", "Survey", "Qualitative Research"],
   },
   {
     label: "Compliance · KYB",

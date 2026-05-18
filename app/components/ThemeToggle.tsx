@@ -14,7 +14,7 @@ export default function ThemeToggle() {
 
   return (
     <button className="theme-btn" onClick={toggleTheme} type="button">
-      {isLight ? "🌙 Dark" : "☀ Light"}
+      {isLight ? "Dark" : "Light"}
     </button>
   );
 }
