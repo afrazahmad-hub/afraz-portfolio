@@ -36,11 +36,6 @@ export default function Contact() {
         <SectionHeading tag="Contact" title="Let's Connect" />
         <div className="contact-wrap">
           <div className="contact-info">
-            <p>
-              Actively seeking a 6-month internship in Fintech, Finance,
-              Blockchain, or Data Analytics across France and Europe. Open to
-              mobility.
-            </p>
             {contactLinks.map((link) => (
               <a
                 href={link.href}

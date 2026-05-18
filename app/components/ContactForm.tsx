@@ -5,17 +5,17 @@ export default function ContactForm() {
     <div>
       <div className="form-group">
         <label htmlFor="name">Your Name</label>
-        <input id="name" type="text" placeholder="Marie Dupont" />
+        <input id="name" type="text" />
       </div>
       <div className="form-group">
         <label htmlFor="email">Email</label>
-        <input id="email" type="email" placeholder="marie@company.com" />
+        <input id="email" type="email" />
       </div>
       <div className="form-group">
         <label htmlFor="message">Message</label>
         <textarea
           id="message"
-          placeholder="Hi Afraz, I'd like to discuss an opportunity..."
+          placeholder="Hi Afraz,"
         />
       </div>
       <button

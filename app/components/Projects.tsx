@@ -25,20 +25,15 @@ const projects = [
   },
   {
     label: "AML · Thesis Research",
-    title: "Crypto AML Regulation Analysis",
+    title: "MSc Thesis: Crypto AML Regulation Analysis",
     desc: "MSc thesis project evaluating the effectiveness of French virtual/crypto regulations (MiCA, AMLDs, FATF) in combating money laundering, with transaction pattern analysis.",
     tags: ["Python", "Power BI", "Econometrics"],
-  },
-  {
-    label: "Hackathon · DeFi",
-    title: "DeFi App - Qubic Hackathon",
-    desc: "Led a 5-member team at the Qubic-Vottun Hackathon (Madrid) to build a DeFi application with crypto payments emphasis, competing against international teams.",
-    tags: ["DeFi", "Smart Contracts", "Crypto Payments"],
   },
   {
     label: "Compliance · KYB",
     title: "CashXChain Guard (KYB Platform)",
     desc: "Contributing to CashXChain Guard - a KYB compliance platform for fintechs - covering sanctions screening, transaction monitoring, and EU corridor compliance workflows.",
+    href: "Confidential - not public due to employer policies",
     tags: ["KYB/AML", "Compliance", "Sanctions Screening"],
   },
 ];

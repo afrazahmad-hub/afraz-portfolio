@@ -8,6 +8,7 @@ const certifications = [
   ["🔍", "Crypto Investigator Crash Course"],
   ["🏦", "Decentralized Finance (DeFi) Infrastructure"],
   ["🛡", "AML Fundamentals"],
+  ["🌐", "FATF - Travel Rule"],
   ["🧠", "Introduction to Multimodal Prompting for GenAI"],
   ["💹", "Finance & Crypto Day 2025"],
 ];
