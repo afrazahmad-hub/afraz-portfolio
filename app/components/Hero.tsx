@@ -4,7 +4,7 @@ import FadeIn from "./FadeIn";
 const stats = [
   { value: "1st", label: "Hackathon Winner - Chiliz Paris" },
   { value: "2", label: "Master Degrees" },
-  { value: "EU", label: "International Exposure" },
+  { value: "🌐", label: "International Exposure" },
 ];
 
 export default function Hero() {

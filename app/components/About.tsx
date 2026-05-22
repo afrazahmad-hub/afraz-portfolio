@@ -7,7 +7,7 @@ const infoRows = [
   { icon: "✉️", content: "afrazjb@gmail.com", href: "mailto:afrazjb@gmail.com" },
   { icon: "🎓", content: "MSc Corporate Finance & Fintech" },
   { icon: "🏢", content: "Fintech Risk & Compliance Intern · CashXChain" },
-  { icon: "🔍", content: "Seeking 6-month internship · Fintech / Blockchain / Data" },
+  // { icon: "🔍", content: "Seeking 6-month internship · Fintech / Blockchain / Data" },
 ];
 
 export default function About() {
